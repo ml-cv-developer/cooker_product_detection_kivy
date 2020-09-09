@@ -1,0 +1,18 @@
+{
+    "camera_url": [
+        "../video/1.mov",
+        "../video/2.mov",
+        "../video/3.mov",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "db_host": "78.188.225.187",
+    "db_user": "root",
+    "db_port": "3306",
+    "db_password": "Aa3846sasa*-",
+    "db_database": "camera",
+    "db_table": "camera"
+}
